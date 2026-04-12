@@ -273,6 +273,11 @@ Revision/Addition Description and Link:
 # Qingquan L
 Initial Description and Link:
 
+- Title: Exploring College Major Earnings with dplyr, ggplot2, and tidyr
+- Data set: fivethirtyeight - college_recent_grads
+- Code: https://github.com/qingquan-li/Data607/blob/main/project-Tidyverse/qingquan_li_tidyverse_vignette.Rmd
+- HTML Preview: https://htmlpreview.github.io/?https://github.com/qingquan-li/Data607/blob/main/project-Tidyverse/qingquan_li_tidyverse_vignette.html
+
 Revision/Addition Description and Link:
 
 # Radzhana R
